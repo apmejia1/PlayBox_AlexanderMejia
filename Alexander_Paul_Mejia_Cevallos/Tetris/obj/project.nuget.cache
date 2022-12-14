@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+4ZP6L77Tvc3Eh/LGcDQA//K2epZwcMWbDo7KbhM6+smExzUM2JVswLw3iS2dmBZ7kW/uW0wtK+hMD+OOtkNA==",
+  "dgSpecHash": "wWmS804hNTyQQY2O9OHN4QU3C7Nw2Rplyoy1d0/NeY8LBcuW78DKEOyo9mQkjGk9CVgZ/l7a+BgI0HsVHmo22Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\UNIVERSIDAD\\2do Semestre\\Programación Orientada a Objetos\\Alexander Mejia C#\\NICOLAS_ESTEBAN_ORTIZ_ADAME\\Tetris\\Tetris.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\UNIVERSIDAD\\2do Semestre\\Programación Orientada a Objetos\\Alexander Mejia C#\\Alexander_Paul_Mejia_Cevallos\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
